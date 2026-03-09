@@ -1,4 +1,4 @@
-Algoritmo SolicitardosnúmerosymostrarcuálesmayorycuálesmenorusandocomparacionesSI
+Algoritmo SolicitardosnÃºmerosymostrarcuÃ¡lesmayorycuÃ¡lesmenorusandocomparacionesSI
 	
 	
 	definir numero1, numero2 Como Entero
@@ -18,7 +18,6 @@ Algoritmo SolicitardosnúmerosymostrarcuálesmayorycuálesmenorusandocomparacionesS
 		sino 
 			escribir "ambos son iguales "
 		FinSi
-	
 	
 FinSi
 
