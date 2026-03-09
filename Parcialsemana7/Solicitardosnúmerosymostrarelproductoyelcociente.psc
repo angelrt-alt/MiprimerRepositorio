@@ -1,4 +1,4 @@
-Algoritmo Solicitardosnúmerosymostrarelproductoyelcociente
+Algoritmo SolicitardosnÃºmerosymostrarelproductoyelcociente
 	
 	definir numero1, numero2, cociente Como Real
 	
@@ -20,6 +20,5 @@ Algoritmo Solicitardosnúmerosymostrarelproductoyelcociente
 		Escribir "el producto es"
 		escribir "nose puede dividir entre 0"
 	FinSi
-	
 	
 FinAlgoritmo
