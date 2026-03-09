@@ -1,4 +1,4 @@
-Algoritmo SolicitarunnúmeroymostrarVerdaderosiesdivisiblepor3odivisiblepor5usandoorSI
+Algoritmo SolicitarunnÃºmeroymostrarVerdaderosiesdivisiblepor3odivisiblepor5usandoorSI
 	
 	
 	definir numero Como Entero
@@ -12,6 +12,5 @@ Algoritmo SolicitarunnúmeroymostrarVerdaderosiesdivisiblepor3odivisiblepor5usand
 		
 	sino 
 		Escribir "falso"
-		
 	FinSi
 FinAlgoritmo
