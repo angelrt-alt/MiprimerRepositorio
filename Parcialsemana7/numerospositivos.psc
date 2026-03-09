@@ -7,7 +7,8 @@ Algoritmo numerospositivos
 	mientras numero >= 1 y numero <= 10 Hacer
 		escribir"numero correcto escribir otro numero"
 		leer numero
-		
+
+
 	FinMientras
 
 FinAlgoritmo
