@@ -6,19 +6,19 @@ Algoritmo Diasdelasemanna
 	
 	segun numero hacer
 		
-	opci髇 1:
+	opci贸n 1:
 		Escribir "Lunes"
 		
-	opci髇 2:
+	opci贸n 2:
 			Escribir "Martes"
-	opci髇 3:
-			Escribir "Mi閞coles"
-	opci髇 4:
+	opci贸n 3:
+			Escribir "Mi茅rcoles"
+	opci贸n 4:
 			Escribir "Jueves"
-	opci髇 5:
+	opci贸n 5:
 			Escribir "Viernes"
-	opci髇 6:
-			Escribir "S醔ado"
+	opci贸n 6:
+			Escribir "S谩bado"
 	Opcion  7:
 			Escribir "Domingo"
 	FinSegun
