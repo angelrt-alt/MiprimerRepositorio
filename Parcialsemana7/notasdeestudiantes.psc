@@ -12,10 +12,9 @@ Algoritmo notasdeestudiantes
             Escribir "Reprobado"
         Sino
             Si nota = 5 Entonces
-                Escribir "Recuperación"
+                Escribir "RecuperaciÃ³n"
 		FinSi
 	finsi
 FinSi
 
-	
 FinAlgoritmo
