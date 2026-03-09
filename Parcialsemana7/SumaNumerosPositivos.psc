@@ -3,7 +3,7 @@ Algoritmo SumaNumerosPositivos
 		suma <- 0
 		
 		Repetir
-			Escribir "Ingrese un número: "
+			Escribir "Ingrese un nÃºmero: "
 			Leer numero
 			
 			Si numero >= 0 Entonces
@@ -12,6 +12,7 @@ Algoritmo SumaNumerosPositivos
 			
 		Hasta Que numero < 0
 		
-		Escribir "La suma de los números positivos ingresados es: "
-		
+		Escribir "La suma de los nÃºmeros positivos ingresados es: "
+
+
 FinProceso
