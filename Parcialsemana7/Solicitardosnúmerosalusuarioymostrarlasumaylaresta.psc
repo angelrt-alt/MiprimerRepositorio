@@ -1,4 +1,4 @@
-Algoritmo Solicitardosnúmerosalusuarioymostrarlasumaylaresta
+Algoritmo SolicitardosnÃºmerosalusuarioymostrarlasumaylaresta
 	
 	definir numero1, numero2, suma, resta Como Entero
 	
@@ -14,6 +14,5 @@ Algoritmo Solicitardosnúmerosalusuarioymostrarlasumaylaresta
 	escribir "la suma es", suma
 	
 	escribir "la resta es", resta
-	
 	
 FinAlgoritmo
