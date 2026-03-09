@@ -1,4 +1,4 @@
-Algoritmo SolicitarunnúmeroymostrarVerdaderosiespositivoymenorque100usandoandSI
+Algoritmo SolicitarunnÃºmeroymostrarVerdaderosiespositivoymenorque100usandoandSI
 	
 	definir numero Como Entero
 	escribir "ingrese numero"
@@ -8,7 +8,8 @@ Algoritmo SolicitarunnúmeroymostrarVerdaderosiespositivoymenorque100usandoandSI
 		Escribir "Verdadero"
 	    SiNo
 		Escribir "falso"
-		
+
+
 	FinSi
 	
 FinAlgoritmo
