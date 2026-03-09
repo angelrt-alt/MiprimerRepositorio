@@ -6,4 +6,5 @@ Algoritmo programaN
 	para i <- 1 hasta N Hacer
 		escribir i * 2
 	FinPara
+
 FinAlgoritmo
